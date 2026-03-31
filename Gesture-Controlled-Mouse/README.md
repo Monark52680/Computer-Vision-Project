@@ -40,7 +40,7 @@ pip install opencv-python mediapipe pyautogui
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Monark52680/Computer-Vision-Project/GestureControlledMouse.git
+git clone https://github.com/Monark52680/Computer-Vision-Project.git
 cd GestureControlledMouse
 ```
 
